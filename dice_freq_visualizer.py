@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # In order to run the script plotly package should be installed:
 # pip3 install plotly
 
